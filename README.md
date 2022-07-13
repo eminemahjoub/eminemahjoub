@@ -1,5 +1,5 @@
 
-[![MasterHead](https://user-images.githubusercontent.com/83378141/119193317-7438e300-ba4f-11eb-8b73-2ddb4fc84af5.gif)]
+![MasterHead](https://user-images.githubusercontent.com/83378141/119193317-7438e300-ba4f-11eb-8b73-2ddb4fc84af5.gif)
 
 <h1 align="center">Hi 👋, I'm Amine Mahjoub</h1>
 <h3 align="center">Aspiring Entrepreneur , Web developper</h3>
