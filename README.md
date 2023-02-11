@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eminemahjoub&label=Profile%20views&color=0e75b6&style=flat" alt="eminemahjoub" /> </p>
 
-- 🔭 I’m currently working on **the little coder**
+- 🔭 I’m currently working on **a3tih**
 
-- 🌱 I’m currently learning **three.js**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📫 How to reach me **eminmahjoub@gmail.com**
 
