@@ -34,6 +34,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eminemahjoub&show_icons=true&locale=en&layout=compact" alt="eminemahjoub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eminemahjoub&show_icons=true&locale=en" alt="eminemahjoub" /></p>
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/eminemahjoub?cardType=level-alternate&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eminemahjoub&" alt="eminemahjoub" /></p>
