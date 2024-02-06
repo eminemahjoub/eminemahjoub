@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **AI Assistance**
 
-- 🌱 I’m currently learning **Artificial Intelligence/Angular**
+- 🌱 I’m currently learning **Web3**
 
 - 📫 How to reach me **eminmahjoub@gmail.com**
 
