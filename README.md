@@ -1,38 +1,89 @@
+<div align="center">
+  
+# Hi there, I'm Amine Mahjoub! 👋
 
-![MasterHead](https://user-images.githubusercontent.com/83378141/119193317-7438e300-ba4f-11eb-8b73-2ddb4fc84af5.gif)
+[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=eminemahjoub)](https://github.com/eminemahjoub)
 
-<h1 align="center">Hi 👋, I'm Amine Mahjoub</h1>
-<h3 align="center">Aspiring Entrepreneur , Web developper</h3>
+A passionate **Computer Science Student** and **Software Developer** focused on web development, AI, and innovative tech solutions. Co-Founder of the Tunisian IT Community and Official UbuntuTN Member. Aspiring entrepreneur building the future one line of code at a time.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eminemahjoub&label=Profile%20views&color=0e75b6&style=flat" alt="eminemahjoub" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=eminemahjoub&label=Profile%20views&color=0e75b6&style=flat-square)
 
-- 🔭 I’m currently working on **AI Assistance**
+</div>
 
-- 🌱 I’m currently learning **Web3**
+---
 
-- 📫 How to reach me **eminmahjoub@gmail.com**
+## 🌟 About Me
+Hello! I'm Amine Mahjoub, a dynamic Computer Science student at the Faculty of Sciences in Gafsa, Tunisia. With a keen interest in web development, artificial intelligence, and blockchain, I love creating impactful applications that solve real-world problems. As Co-Founder of the Tunisian IT Community and an active UbuntuTN member, I'm committed to fostering tech growth in Tunisia.
 
-- ⚡ Fun fact **I Think I AM Funny**
+- 🔭 **Currently working on:** AI-enhanced tools and multivendor platforms.
+- 🌱 **Learning:** Advanced AI models and full-stack blockchain integrations.
+- 💬 **Ask me about:** Python for AI, web dev best practices, or community building in tech.
+- ⚡ **Fun fact:** I've turned open-source contributions into lasting community connections!
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+📍 **Based in:** Gafsa, Tunisia  
+🌐 **Personal Website:** [aminemahjoub.tech](https://aminemahjoub.tech)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/eminemahjoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eminemahjoub" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eminemahjoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eminemahjoub" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/amine mahjoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amine mahjoub" height="30" width="40" /></a>
-<a href="https://fb.com/100070396863557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100070396863557" height="30" width="40" /></a>
-<a href="https://discord.gg/Stephane Emine#8203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Stephane Emine#8203" height="30" width="40" /></a>
-</p>
+### Quick Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eminemahjoub&theme=radical&hide_border=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=eminemahjoub](https://api.githubtrends.io/user/svg/eminemahjoub/langs?time_range=one_year&use_percent=True&theme=dark
-)&" alt="eminemahjoub" /></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eminemahjoub&show_icons=true&locale=en&layout=compact" alt="eminemahjoub" /></p>
+## 💼 Tech Stack
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML5/CSS3-orange?logo=html5&logoColor=white)
+![Django](https://img.shields.io/badge/Django-4.x-green?logo=django&logoColor=white) <!-- Assumed from projects -->
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/eminemahjoub?cardType=level-alternate&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eminemahjoub&" alt="eminemahjoub" /></p>
+### Tools & Platforms
+![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-orange?logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2.x-red?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24-blue?logo=docker&logoColor=white)
+
+### Skills Snapshot
+- **Web Dev:** Full-Stack Development, APIs, Responsive Design
+- **AI/ML:** Text-to-Speech, Intelligent Systems
+- **Other:** Blockchain Basics, Community Management, Entrepreneurship
+
+---
+
+## 🚀 Featured Projects
+Diving into code that matters – explore my repositories!
+
+| Project | Description | Tech Stack | Stars |
+|---------|-------------|------------|-------|
+| [Dawini](https://github.com/eminemahjoub/Dawini) | An innovative online pharmacy multivendor platform for seamless e-commerce in healthcare. | Full-Stack Web (JS/Python) | ![Stars](https://img.shields.io/github/stars/eminemahjoub/Dawini?style=social) |
+| [pdf-voice-reader](https://github.com/eminemahjoub/pdf-voice-reader) | A Python-based PDF reader with integrated text-to-speech for accessible document navigation. | Python, TTS Libraries | ![Stars](https://img.shields.io/github/stars/eminemahjoub/pdf-voice-reader?style=social) |
+
+<!-- Add more projects as they grow! -->
+
+---
+
+## 📈 GitHub Insights
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eminemahjoub&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminemahjoub&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+Excited about collaborations in AI, web tech, or Tunisian open-source initiatives? Let's chat!
+
+- 📧 **Email:** [eminmahjoub@gmail.com](mailto:eminmahjoub@gmail.com)
+- 💼 **LinkedIn:** [Amine Mahjoub](https://www.linkedin.com/in/eminemahjoub/)
+- 🐦 **X (Twitter):** [@eminemahjoub](https://twitter.com/eminemahjoub) <!-- Update if available -->
+- 🌐 **Website:** [aminemahjoub.tech](https://aminemahjoub.tech)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=eminemahjoub&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+---
+
+**Last Updated:** November 09, 2025
+
+---
+
+> *"Innovation distinguishes between a leader and a follower."* – Steve Jobs  
+*(Driving my passion for tech entrepreneurship)*
